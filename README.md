@@ -41,6 +41,14 @@
 - 🚀 **Automação Industrial**: Projetos voltados para soluções reais de automação, IoT e controle robótico.
 
 ---
+### 🏆 Sala de Troféus (Missões Concluídas) 🏆
+
+| Projeto (Quest) | Descrição da Missão / Conquista | Tecnologias Usadas (Feitiços) | Recompensas (Links) |
+| :--- | :--- | :--- | :--- |
+| **VRC (Voice Robotic Control)** <br> *(Conquista: Robotic Master 🤖)* | Criei o VRC do zero, integrando hardware, software e controle por voz para um sistema robótico completo, atuando em todas as camadas do desenvolvimento. | <img src="https://skillicons.dev/icons?i=python,react,nodejs,raspberrypi&perline=4" height="25"/> | [🔗 Repositório](LINK_PARA_O_REPO_VRC) <br> [🎥 Vídeo de Demo](LINK_PARA_O_VIDEO_VRC) |
+| **Estudo de APIs** <br> *(Conquista: API Explorer 🏆)* | Desenvolvi e publiquei este projeto de estudo com integrações e testes avançados de APIs, aplicando práticas de autenticação e criptografia. | <img src="https://skillicons.dev/icons?i=java,spring,ts,git&perline=4" height="25"/> | [🔗 Repositório](LINK_PARA_O_REPO_API) |
+| **Contribuições Open Source** <br> *(Conquista: Collaborator 🤝)* | Participei de projetos colaborativos como o SwiftExperience e o PintechAFIAFINHA, contribuindo com código e soluções. | <img src="https://skillicons.dev/icons?i=swift,python&perline=2" height="25"/> | [🔗 Ver Contribuições](LINK_PARA_SEUS_PRS_OU_PROJETOS) |
+---
 
 ## 📫 Conecte-se comigo
 
