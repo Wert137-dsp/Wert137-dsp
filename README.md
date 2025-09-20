@@ -9,7 +9,8 @@
 ## 🚀 Projetos em destaque
 
 - [**Estudo-de-Api**](https://github.com/Wert137-dsp/Estudo-de-Api)  
-  Prática com integrações de APIs, testes e automação de dados.
+  Prática com integrações de APIs, testes e automação de dados.  
+  <sup>Inclui Integração Contínua (CI) com testes unitários a cada push e testes end-to-end (e2e) para Pull Requests.</sup>
 
 - [**VRC (Voice Robotic Control)**](https://github.com/Wert137-dsp/controle_robo_software)  
   Sistema completo para controle de braço robótico, integrando front-end, back-end, comandos de voz e hardware.
@@ -28,15 +29,15 @@
 - [x] Ladder
 - [x] PHP
 - [x] C#
-- [X] Insomnia
-- [X] MQTT
-- [X] Docker
+- [x] Insomnia
+- [x] MQTT
+- [x] Docker
 
 ---
 
 ## 🏅 Recompensas & Conquistas
 
-- 🥇 **API Explorer**: Desenvolveu e publicou o projeto Estudo-de-Api, com integração e testes avançados de APIs.
+- 🥇 **API Explorer**: Desenvolveu e publicou o projeto Estudo-de-Api, com integração, testes avançados de APIs e CI/CD automatizada.
 - 🦾 **Robotic Master**: Criou o VRC (Voice Robotic Control) do zero, integrando hardware, software e controle por voz.
 - 🏗️ **Full Stack Builder**: Atuou em todas as camadas do desenvolvimento — do firmware no ESP32 ao front-end web.
 - 🔒 **Security First**: Aplicou práticas de autenticação e criptografia em projetos integrados.
@@ -49,7 +50,7 @@
 | Projeto (Quest) | Descrição da Missão / Conquista | Tecnologias Usadas (Feitiços) | Recompensas (Links) |
 | :--- | :--- | :--- | :--- |
 | **VRC (Voice Robotic Control)** <br> *(Conquista: Robotic Master 🤖)* | Criei o VRC do zero, integrando hardware, software e controle por voz para um sistema robótico completo, atuando em todas as camadas do desenvolvimento. | <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,mysql&perline=6" height="25"/> <br> ![MQTT](https://img.shields.io/badge/MQTT-000?logo=mqtt&logoColor=white) | [🔗 Repositório](https://github.com/Wert137-dsp/controle_robo_software) |
-| **Estudo de APIs** <br> *(Conquista: API Explorer 🏆)* | Desenvolvi e publiquei este projeto de estudo com integrações e testes avançados de APIs, aplicando práticas de autenticação e criptografia. | <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,docker&perline=4" height="25"/> <br> ![Insomnia](https://img.shields.io/badge/Insomnia-4000bf?logo=insomnia&logoColor=white) | [🔗 Repositório](https://github.com/Wert137-dsp/Estudo-de-Api) |
+| **Estudo de APIs** <br> *(Conquista: API Explorer 🏆)* | Projeto de estudo com integrações, testes avançados de APIs e CI/CD: testes unitários a cada push e testes e2e para Pull Requests. | <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,docker&perline=4" height="25"/> <br> ![Insomnia](https://img.shields.io/badge/Insomnia-4000bf?logo=insomnia&logoColor=white) <br> ![CI](https://img.shields.io/github/actions/workflow/status/Wert137-dsp/Estudo-de-Api/ci.yml?label=CI&logo=githubactions&style=flat-square) | [🔗 Repositório](https://github.com/Wert137-dsp/Estudo-de-Api) |
 
 ---
 
