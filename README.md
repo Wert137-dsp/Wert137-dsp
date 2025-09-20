@@ -38,7 +38,6 @@
 
 - 🥇 **API Explorer**: Desenvolveu e publicou o projeto Estudo-de-Api, com integração e testes avançados de APIs.
 - 🦾 **Robotic Master**: Criou o VRC (Voice Robotic Control) do zero, integrando hardware, software e controle por voz.
-- 🌍 **Colaborador Open Source**: Participou de projetos colaborativos como SwiftXperience e FintechFIAPinha.
 - 🏗️ **Full Stack Builder**: Atuou em todas as camadas do desenvolvimento — do firmware no ESP32 ao front-end web.
 - 🔒 **Security First**: Aplicou práticas de autenticação e criptografia em projetos integrados.
 - 🚀 **Automação Industrial**: Projetos voltados para soluções reais de automação, IoT e controle robótico.
