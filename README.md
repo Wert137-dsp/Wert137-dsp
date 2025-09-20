@@ -30,6 +30,8 @@
 - [x] PHP
 - [x] C#
 - [x] Insomnia
+- [x] SQL
+- [x] MySQL
 - [x] MQTT
 - [x] Docker
 
