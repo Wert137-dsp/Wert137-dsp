@@ -11,8 +11,8 @@
 - [**Estudo-de-Api**](https://github.com/Wert137-dsp/Estudo-de-Api)  
   Prática com integrações de APIs, testes e automação de dados.
 
-- [**controle_robo_software**](https://github.com/Wert137-dsp/controle_robo_software)  
-  Software para controle de robôs, combinando lógica de automação e aplicações industriais.
+- [**VRC (Voice Robotic Control)**](https://github.com/Wert137-dsp/controle_robo_software)  
+  Sistema completo para controle de braço robótico, integrando front-end, back-end, comandos de voz e hardware.
 
 ---
 
@@ -28,6 +28,17 @@
 - [x] Ladder
 - [x] PHP
 - [x] C#
+
+---
+
+## 🏅 Recompensas & Conquistas
+
+- 🥇 **API Explorer**: Desenvolveu e publicou o projeto Estudo-de-Api, com integração e testes avançados de APIs.
+- 🦾 **Robotic Master**: Criou o VRC (Voice Robotic Control) do zero, integrando hardware, software e controle por voz.
+- 🌍 **Colaborador Open Source**: Participou de projetos colaborativos como SwiftXperience e FintechFIAPinha.
+- 🏗️ **Full Stack Builder**: Atuou em todas as camadas do desenvolvimento — do firmware no ESP32 ao front-end web.
+- 🔒 **Security First**: Aplicou práticas de autenticação e criptografia em projetos integrados.
+- 🚀 **Automação Industrial**: Projetos voltados para soluções reais de automação, IoT e controle robótico.
 
 ---
 
